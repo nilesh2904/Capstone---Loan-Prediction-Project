@@ -1,0 +1,2 @@
+# Capstone---Loan-Prediction-Project
+To build a data model to predict the probability of default, and choose a cut-off based on what you feel is suitable. Alternatively you can also use a modelling technique which gives binary output. Based on the data that is available during loan application, I build a model to predict default in the future. This will help the company in deciding whether or not to pass the loan.
